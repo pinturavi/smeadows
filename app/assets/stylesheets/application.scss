@@ -1,0 +1,37 @@
+
+ @import 'bootstrap';
+
+
+#logo:hover{
+ cursor: pointer;
+}
+
+.responsive {
+    padding-left: 3%;
+    width: 10%;
+    height: auto;
+}
+
+#home-navigator {
+  background-color: black;
+}
+
+.fullresponsive {
+  padding: 1%;
+  width:100%;
+  height: 10%;
+}
+
+.bottom-navigator {
+  font-style: normal;
+  color:white;
+  background-color: #828284;
+}
+
+a:link {
+    color: white;
+}
+
+.rounded-corner-border {
+  border-style: solid;  border-radius: 2px; border-color: white;
+}
